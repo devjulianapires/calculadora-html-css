@@ -1,0 +1,2 @@
+> git push -u origin master
+fatal: protocol '?[200~https' is not supported
